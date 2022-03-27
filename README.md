@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**leixingyu/leixingyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Maya
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leixingyu&repo=autoRigger)](https://github.com/leixingyu/autoRigger)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leixingyu&repo=assetManager)](https://github.com/leixingyu/assetManager)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leixingyu&repo=mayaConnector)](https://github.com/leixingyu/mayaConnector)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leixingyu&repo=reducePoly)](https://github.com/leixingyu/reducePoly)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Other
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leixingyu&repo=pedagogical-agent)](https://github.com/leixingyu/pedagogical-agent)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leixingyu&repo=jsonEditor)](https://github.com/leixingyu/jsonEditor)
+
+
+# Library
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leixingyu&repo=mayaUtil)](https://github.com/leixingyu/mayaUtil)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leixingyu&repo=guiUtil)](https://github.com/leixingyu/guiUtil)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leixingyu&repo=pipelineUtil)](https://github.com/leixingyu/pipelineUtil)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leixingyu&repo=codeEditor)](https://github.com/leixingyu/codeEditor)
