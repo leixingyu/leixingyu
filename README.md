@@ -2,7 +2,7 @@
 
 # Maya
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leixingyu&repo=autoRigger)](https://github.com/leixingyu/autoRigger)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leixingyu&repo=assetManager)](https://github.com/leixingyu/assetManager)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leixingyu&repo=mayaAsciiViewer)](https://github.com/leixingyu/mayaAsciiViewer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leixingyu&repo=mayaConnector)](https://github.com/leixingyu/mayaConnector)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leixingyu&repo=reducePoly)](https://github.com/leixingyu/reducePoly)
 
