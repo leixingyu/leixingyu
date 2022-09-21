@@ -1,13 +1,32 @@
-# Featured
+# About Me
+
+Hello, this is Xingyu Lei. I'm a Technical Aritist with 4+ years of experience, currently working at **PlayStation, Sony Interactive Entertainment**.
+
+I'm a self-motivated learner, critical thinker and problem solver. I love to share knowledge and regularly update my learning experience in at [xingyulei.com](https://www.xingyulei.com/): my technical art blog. Here you can find some of the tools I've worked on in a personal capacity, hope you find them useful.
+
+# Featured Tools
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leixingyu&repo=mayaAsciiViewer)](https://github.com/leixingyu/mayaAsciiViewer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leixingyu&repo=unrealStylesheet)](https://github.com/leixingyu/unrealStylesheet)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leixingyu&repo=jsonEditor)](https://github.com/leixingyu/jsonEditor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leixingyu&repo=autoRigger)](https://github.com/leixingyu/autoRigger)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leixingyu&repo=mayaConnector)](https://github.com/leixingyu/mayaConnector)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leixingyu&repo=jsonEditor)](https://github.com/leixingyu/jsonEditor)
 
-# Library
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leixingyu&repo=mayaUtil)](https://github.com/leixingyu/mayaUtil)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leixingyu&repo=codeEditor)](https://github.com/leixingyu/codeEditor)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leixingyu&repo=guiUtil)](https://github.com/leixingyu/guiUtil)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leixingyu&repo=pipelineUtil)](https://github.com/leixingyu/pipelineUtil)
-
+# Work
+<table>
+    <tr>
+        <td>
+            <img src="https://blog.playstation.com/tachyon/2022/06/9ff638052e06ef766a4c32959e2193fe814aab58.png" alt="tlou1" style="width:auto;height:400px;"><br/>
+			<b>The Last of Us: Part I</b><br/>
+            2022
+        </td>
+        <td>
+            <img src="https://m.media-amazon.com/images/M/MV5BYjEwOWQ0MjktMjZjNy00Mzc1LWE5NTItMDQ1Yjc0Zjk0NTBlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg" alt="ldr" style="width:auto;height:400px;"><br/>
+            <b>Love Death & Robots</b><br/>
+            2020
+        </td>
+        <td>
+            <img src="https://m.media-amazon.com/images/M/MV5BMTc3NWY2ZTMtNTNlZC00MWM2LWI5MzYtMmU1YzY0ODk5ZjQ1XkEyXkFqcGdeQXVyODA2MTkwODk@._V1_FMjpg_UX1000_.jpg" alt="CODMW" style="width:auto;height:400px;"><br/>
+            <b>Call of Duty: Modern Warefare</b><br/>
+            2019
+        </td>
+    </tr>
+</table>
