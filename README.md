@@ -13,18 +13,18 @@ I'm a self-motivated learner, critical thinker and problem solver. I love to sha
 # Work
 <table>
     <tr>
-        <td>
-            <img src="https://blog.playstation.com/tachyon/2022/06/9ff638052e06ef766a4c32959e2193fe814aab58.png" alt="tlou1" style="width:auto;height:400px;"><br/>
+        <td width="33%">
+            <img src="https://image.api.playstation.com/vulcan/ap/rnd/202206/0720/aZKLRcjaZ8HL03ODxYMZDfaH.png" alt="tlou1"><br/>
 			<b>The Last of Us: Part I</b><br/>
             2022
         </td>
-        <td>
-            <img src="https://m.media-amazon.com/images/M/MV5BYjEwOWQ0MjktMjZjNy00Mzc1LWE5NTItMDQ1Yjc0Zjk0NTBlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg" alt="ldr" style="width:auto;height:400px;"><br/>
+        <td width="33%">
+            <img src="https://m.media-amazon.com/images/M/MV5BYjEwOWQ0MjktMjZjNy00Mzc1LWE5NTItMDQ1Yjc0Zjk0NTBlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg" alt="ldr"><br/>
             <b>Love Death & Robots</b><br/>
             2020
         </td>
-        <td>
-            <img src="https://m.media-amazon.com/images/M/MV5BMTc3NWY2ZTMtNTNlZC00MWM2LWI5MzYtMmU1YzY0ODk5ZjQ1XkEyXkFqcGdeQXVyODA2MTkwODk@._V1_FMjpg_UX1000_.jpg" alt="CODMW" style="width:auto;height:400px;"><br/>
+        <td width="33%">
+            <img src="https://m.media-amazon.com/images/M/MV5BMTc3NWY2ZTMtNTNlZC00MWM2LWI5MzYtMmU1YzY0ODk5ZjQ1XkEyXkFqcGdeQXVyODA2MTkwODk@._V1_FMjpg_UX1000_.jpg" alt="CODMW"><br/>
             <b>Call of Duty: Modern Warefare</b><br/>
             2019
         </td>
