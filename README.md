@@ -1,12 +1,16 @@
 # About Me
 
-Hello, this is Xingyu Lei. I'm a Technical Aritist with 4+ years of experience, currently working at **PlayStation, Sony Interactive Entertainment**.
+Hello, this is Xingyu Lei. 
 
-I'm a self-motivated learner, critical thinker and problem solver. I love to share knowledge and regularly update my learning experience in at [xingyulei.com](https://www.xingyulei.com/): my technical art blog. Here you can find some of the tools I've worked on in a personal capacity, hope you find them useful.
+- I'm a Technical Aritist with 4+ years of experience, currently working at **PlayStation, Sony Interactive Entertainment**.
+
+- I'm a self-motivated learner, critical thinker and problem solver. 
+
+- I love to share knowledge and regularly update my learning experience in at [xingyulei.com](https://www.xingyulei.com/): my technical art blog. Here you can find some of the tools I've worked on in a personal capacity, hope you find them useful.
 
 # Featured Tools
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leixingyu&repo=mayaAsciiViewer)](https://github.com/leixingyu/mayaAsciiViewer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leixingyu&repo=unrealStylesheet)](https://github.com/leixingyu/unrealStylesheet)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leixingyu&repo=mayaAsciiViewer)](https://github.com/leixingyu/mayaAsciiViewer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leixingyu&repo=autoRigger)](https://github.com/leixingyu/autoRigger)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leixingyu&repo=jsonEditor)](https://github.com/leixingyu/jsonEditor)
 
