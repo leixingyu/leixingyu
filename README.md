@@ -2,11 +2,11 @@
 
 Hello, this is Xingyu Lei. 
 
-- I'm a Senior Technical Aritist at **PlayStation, Sony Interactive Entertainment**.
+- I'm a Senior Technical Artist at **PlayStation, Sony Interactive Entertainment**.
 
 - I'm a self-motivated learner, critical thinker and problem solver. 
 
-- I love to share knowledge and regularly update my learning experience in at [xingyulei.com](https://www.xingyulei.com/): my technical art blog. Here you can find some of the tools I've worked on in a personal capacity, hope you find them useful.
+- I love to share knowledge and regularly update my learning experience on [xingyulei.com](https://www.xingyulei.com/): my technical art blog. Here, you can find some of the tools I've worked on in a personal capacity, I hope you find them useful.
 
 # Featured Tools
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leixingyu&repo=unrealStylesheet)](https://github.com/leixingyu/unrealStylesheet)
