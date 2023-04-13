@@ -2,7 +2,7 @@
 
 Hello, this is Xingyu Lei. 
 
-- I'm a Technical Aritist with 4+ years of experience, currently working at **PlayStation, Sony Interactive Entertainment**.
+- I'm a Senior Technical Aritist at **PlayStation, Sony Interactive Entertainment**.
 
 - I'm a self-motivated learner, critical thinker and problem solver. 
 
